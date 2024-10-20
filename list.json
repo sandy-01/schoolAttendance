@@ -1,0 +1,11 @@
+{
+  "residency": [
+    { "id": 1, "city": "latur" },
+    { "id": 2, "city": "Jamnagar" }
+  ],
+
+  "nest": [
+    { "id": 1, "city": "latur" },
+    { "id": 2, "city": "Jamnagar" }
+  ]
+}
